@@ -2,7 +2,12 @@
 
 Copyright 2019 Ben Elliston
 
-USSR is implemented as a LibreOffice Calc workbook.
+USSR is a LibreOffice Calc workbook to configure basic grid-connected
+solar PV systems. It matches modules to inverters, calculates DC
+isolator ratings, voltage drops and estimates system yields. New
+inverters, modules and locations can be added to the worksheet.
+
+USSR is licensed under the GPLv3 free software license.
 
 ## Instructions
 
