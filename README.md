@@ -19,3 +19,9 @@ worksheets.
 
 You should not need to edit the green worksheets unless adding new
 locations.
+
+## Additional tools
+
+In the `GETS` directory, another pair of similar workbooks has been
+provided by Ben Murphy of Global Energy Training Solutions
+(GETS). They are also licensed under GPLv3.
