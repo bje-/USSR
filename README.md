@@ -23,5 +23,6 @@ locations.
 ## Additional tools
 
 In the `GETS` directory, another pair of similar workbooks has been
-provided by Ben Murphy of Global Energy Training Solutions
-(GETS). They are also licensed under GPLv3.
+provided by Ben Murphy of [Global Energy Training
+Solutions](https://gets.edu.au). These workbooks are also licensed
+under GPLv3.
