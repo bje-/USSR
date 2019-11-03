@@ -22,7 +22,7 @@ locations.
 
 ## Additional tools
 
-In the `GETS` directory, another pair of similar workbooks has been
-provided by Ben Murphy of [Global Energy Training
+In the `GETS` directory, another similar workbook has been contributed
+by Ben Murphy of [Global Energy Training
 Solutions](https://gets.edu.au). These workbooks are also licensed
 under GPLv3.
